@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mqtech25.github.io/quran-app/static/css/main.a078c040.css",
+    "main.js": "/mqtech25.github.io/quran-app/static/js/main.e81c80ba.js",
+    "static/js/787.f633113e.chunk.js": "/mqtech25.github.io/quran-app/static/js/787.f633113e.chunk.js",
+    "static/media/quran.png": "/mqtech25.github.io/quran-app/static/media/quran.e642bda1a77afe39e3bf.png",
+    "static/media/logo.png": "/mqtech25.github.io/quran-app/static/media/logo.e4ff910a78d926d72d47.png",
+    "index.html": "/mqtech25.github.io/quran-app/index.html",
+    "main.a078c040.css.map": "/mqtech25.github.io/quran-app/static/css/main.a078c040.css.map",
+    "main.e81c80ba.js.map": "/mqtech25.github.io/quran-app/static/js/main.e81c80ba.js.map",
+    "787.f633113e.chunk.js.map": "/mqtech25.github.io/quran-app/static/js/787.f633113e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a078c040.css",
+    "static/js/main.e81c80ba.js"
+  ]
+}
